@@ -59,4 +59,33 @@ fun main() {
     // Print the results
     println("\nMax Value of a Double Type is = $max_value_Double")	
     println("Min Value of a Double Type is = $min_value_Double")
+    
+    ////////////////////////////////////////////////////////////////////////
+     
+    // Definition of a Bolean Value					// 1 bit		
+    val true_value_Boolean : Boolean = true			// 1
+    val false_value_Boolean : Boolean = false		// 0	
+    
+    // Print the results
+    println("\nTrue Value of a Boolean Type is = $true_value_Boolean")	
+    println("False Value of a Boolean Type is = $false_value_Boolean")
+    
+    
+    ////////////////////////////////////////////////////////////////////////
+     
+    // Definition of a String Value			 		
+    val myString : String = "Hello"			 
+	
+    // Print the results
+    println("\nMy string value is = $myString")	
+    
+    
+    ////////////////////////////////////////////////////////////////////////
+     
+    // Definition of a String Value			 		
+    val myChar : Char = 'H'		 
+	
+    // Print the results
+    println("\nMy Char value is = $myChar")
+
 }
