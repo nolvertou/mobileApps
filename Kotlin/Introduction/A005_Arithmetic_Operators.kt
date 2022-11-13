@@ -22,7 +22,7 @@ fun main(){
     
     
     // Division 2
-	var e = 6 / 3		
+	var e : Double  = 5.0 / 3	
     // Result
     println("e = $e")	// 2
     
