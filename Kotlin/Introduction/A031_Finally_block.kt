@@ -1,4 +1,4 @@
-// Goal: 			Learn how to use multiple catch block
+// Goal: 			Learn how to use finally block
 // Creation Date: 	12/03/2022
 // Created by: 		Engineer Nolverto Urias Obeso
 // 
